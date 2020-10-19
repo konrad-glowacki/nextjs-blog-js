@@ -4,7 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
-wpe.json
+
+# WPE
+/wpe.json
+/wpe-commands
 
 # testing
 /coverage
