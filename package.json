@@ -9,7 +9,7 @@
     "dev": "next dev",
     "build": "next build",
     "wpe-build": "next build",
-    "start": "next start"
+    "start": "next start -p 8080"
   },
   "dependencies": {
     "next": "9.5.3",
