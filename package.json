@@ -9,7 +9,8 @@
     "dev": "next dev",
     "build": "next build",
     "wpe-build": "next build",
-    "start": "next start -p 8080"
+    "start": "next start -p 8080",
+    "install": "node ./scripts/install.js"
   },
   "dependencies": {
     "next": "9.5.3",
