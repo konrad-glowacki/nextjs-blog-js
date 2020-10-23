@@ -3,4 +3,5 @@
 /wpe-commands
 /wpe.json
 /.next
-/node_modules
+
+node_modules
