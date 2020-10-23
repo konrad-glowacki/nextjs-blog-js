@@ -1,0 +1,7 @@
+/.git
+/Dockerfile
+/wpe-commands
+/wpe.json
+/.next
+/node_modules
+/npm_cache
