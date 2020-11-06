@@ -1,0 +1,17 @@
+{
+  "name": "wpe-nextjs-simple",
+  "repo": "konrad-glowacki/wpe-nextjs-simple",
+  "environments": [
+    {
+      "name": "development",
+      "branch": "main",
+      "wp_environment_name": "kongloheaddev",
+      "secrets": [
+        {
+          "key": "WP_URL",
+          "value": "http://kongloheaddev.wpengine.com"
+        }
+      ]
+    }
+  ]
+}

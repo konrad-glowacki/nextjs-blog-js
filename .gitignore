@@ -7,8 +7,7 @@
 /npm_cache
 
 # WPE
-/wpe.json
-/wpe-commands
+/commands
 
 # testing
 /coverage
