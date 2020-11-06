@@ -9,8 +9,7 @@
     "dev": "next dev",
     "build": "next build",
     "wpe-build": "next build",
-    "start": "next start -p ${PORT}",
-    "install": "node ./scripts/install.js"
+    "start": "next start -p ${PORT}"
   },
   "dependencies": {
     "next": "^10.0.1",
