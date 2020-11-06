@@ -9,7 +9,7 @@
     "dev": "next dev",
     "build": "next build",
     "wpe-build": "next build",
-    "start": "next start -p ${PORT}"
+    "start": "next start --port $PORT"
   },
   "dependencies": {
     "next": "^10.0.1",
