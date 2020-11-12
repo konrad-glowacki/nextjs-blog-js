@@ -10,7 +10,7 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Only Build
+          Simple Next.js Node App
         </h1>
 
         <p className="description">

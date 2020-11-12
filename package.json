@@ -6,7 +6,11 @@
     "node": "12.x"
   },
   "scripts": {
-    "build": "next build"
+    "dev": "next dev",
+    "build": "next build",
+    "wpe-build": "next build",
+    "start": "next start --port 8080",
+    "local-build": "npm install && next build"
   },
   "dependencies": {
     "next": "^10.0.1",
